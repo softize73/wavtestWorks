@@ -2,7 +2,7 @@
 Test playing WAV files. Works!
 
 Hardware:
-- Pico LiPo 16MB (similar to the Raspberry Pico, except it has 16MB onboard Flash)
+- Pimoroni Pico LiPo 16MB (similar to the Raspberry Pico, except it has 16MB onboard Flash) (flashed with English UF2 Circuitpython 6.3.0 stable)
 - Adafruit MAX 98357A (mono amplifier and DAC for i2s sound)
 - a 4 Ohms 3 Watts mono speaker
 
